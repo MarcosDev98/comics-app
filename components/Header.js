@@ -1,6 +1,6 @@
 import { Text, Container } from '@nextui-org/react'
 import Link  from 'next/link'
-
+// comment for git
 export default function Header () {
   return <header className='flex justify-between items-center p-4 max-w-xl m-auto'>
     <Container 
